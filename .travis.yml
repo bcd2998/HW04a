@@ -6,4 +6,4 @@ install:
 # command to run tests
 script:
   # <YOU PUT YOUR COMMAND HERE>
-  - python3 HW04a_Test.py
+  - python -m unittest HW04a_Test
